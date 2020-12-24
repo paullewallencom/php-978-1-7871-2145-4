@@ -1,0 +1,8 @@
+[DEBUG] This is a debug message!
+[DEBUG] Dec/01/2016 01:02:06 AM - This is a debug message using currying!
+[DEBUG] This is another debug message
+[WARN] Dec/01/2016 01:44:34 AM - Functional
+[WARN] Dec/01/2016 01:44:34 AM - PHP
+[WARN] Dec/01/2016 01:44:34 AM - is
+[WARN] Dec/01/2016 01:44:34 AM - too
+[WARN] Dec/01/2016 01:44:34 AM - awesome!
